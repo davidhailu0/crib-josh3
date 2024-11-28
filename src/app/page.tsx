@@ -128,7 +128,7 @@ export default function Home() {
             Ready to Elevate Your Digital Presence?
           </h2>
           <p className="text-xl text-gray-300 mb-10 max-w-2xl mx-auto">
-            Let's collaborate to create a powerful digital strategy that drives results.
+            Let&apos;s collaborate to create a powerful digital strategy that drives results.
           </p>
           <Link
             href="/contact"
